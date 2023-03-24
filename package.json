@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "commands": "ts-node src/Commands.ts"
+    "commands": "ts-node src/Commands.ts",
+    "trialApplications": "ts-node src/TrialApplications.ts"
   },
   "dependencies": {
     "@types/node": "^18.7.23",

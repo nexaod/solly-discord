@@ -11,6 +11,10 @@ export const purgeChannel = async (channel: TextChannel) => {
     }
 }
 
+export const stripRole = (role: string) => {
+    return role.slice(3, -1)
+}
+
 export const Colours = {
     green: 2067276,
     aqua: 1146986,
@@ -265,7 +269,14 @@ export const Emojis = {
     dive: '<:dive:1049378668197195808>',
     spiritCape: '<:spiritcape:697405301623619624>',
     replenishment: '<:enhreplen:634350450887622656>',
-    iceBlitz: '<:iceblitz:535613865912696883>'
+    iceBlitz: '<:iceblitz:535613865912696883>',
+    precise: '<:precise:1005204971886743572>',
+    c1: '<:caroming1:1043953962207957162>',
+    inquis: '<:inquisitorstaff:694566917553520680>',
+    critBuff: '<:critbuff:943518665842757644>',
+    vitality: '<:vitality:654618235097972737>',
+    kwuarm: '<:KwuarmSticks:565726489341984779>',
+    spiritWeed: '<:SpiritSticks:565726489136463894>',
 }
 
 
@@ -300,6 +311,9 @@ const DevChannels = {
     botRoleLog: '1044636757808922766',
     botReportLog: '1047434337647329330',
     commandInfo: '1064789366762905650',
+    trialApplications: '1086926116599648308',
+    foursGuide: '1088825397212364830',
+    requirements: '1043923758290833484',
 }
 
 const ProdMessages = {
@@ -317,21 +331,42 @@ const ProdChannels = {
     botRoleLog: '1045192967754883172',
     botReportLog: '1046699857433342103',
     commandInfo: '1047042072173088798',
+    trialApplications: '1006975026748203079',
+    foursGuide: '1074746690839523468',
+    requirements: '711306680763416666',
 }
 
 const DevRoles: any = {
     trialTeam: '<@&1043923757783326780>',
     admin: '<@&1043923757783326788>',
+    duoMaster: '<@&1043923757732999218>',
+    threeSevenMaster: '<@&1043923757707829449>',
+    duoRootskips: '<@&1043923757707829443>',
+    threeSevenRootskips: '<@&1043923757707829442>',
+    duoExperienced: '<@&1043923757707829446>',
+    threeSevenExperienced: '<@&1043923757707829445>',
+    duoGrandmaster: '<@&1043923757732999225>',
+    threeSevenGrandmaster: '<@&1043923757732999224>',
+    fours: '<@&1077211897931235339>',
 }
 
 const ProdRoles: any = {
     trialTeam: '<@&488073429975826452>',
     admin: '<@&519490446368571392>',
+    duoMaster: '<@&1074344442355535872>',
+    threeSevenMaster: '<@&981579218771120249>',
+    duoRootskips: '<@&1007584848719912973>',
+    threeSevenRootskips: '<@&931903313144848394>',
+    duoExperienced: '<@&931903449396834364>',
+    threeSevenExperienced: '<@&981579337159565383>',
+    duoGrandmaster: '<@&1074344219285672096>',
+    threeSevenGrandmaster: '<@&1074343947507335258>',
+    fours: '<@&1074344307068252210>',
 }
 
-const ProdGuildId = '315710189762248705';
+const ProdGuildId = '429001600523042818';
 
-const DevGuildId = '1057867190579253329';
+const DevGuildId = '1043923757598781461';
 
 export const Roles = environment === 'PRODUCTION' ? ProdRoles : DevRoles;
 
