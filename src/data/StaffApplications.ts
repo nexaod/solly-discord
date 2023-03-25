@@ -46,7 +46,7 @@ export const roleData = [
     {
         role: `admin`,
         available: false,
-        description: `Deals with the backend running of the server, reviews submissions, reports and helps the ${Roles.owners} with any changes to the server or its contents.`,
+        description: `Deals with the backend running of the server, reviews submissions, reports and helps the ${Roles.owner} team with any changes to the server or its contents.`,
     },
     {
         role: `moderator`,
