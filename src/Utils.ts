@@ -314,6 +314,10 @@ const DevChannels = {
     trialApplications: '1086926116599648308',
     foursGuide: '1088825397212364830',
     requirements: '1043923758290833484',
+    staffApplications: '1043923761021325345',
+    learnerChat: '1043923760065028164',
+    presetFeedback: '1043923760065028165',
+    vodReview: '1043923761021325346',
 }
 
 const ProdMessages = {
@@ -334,6 +338,10 @@ const ProdChannels = {
     trialApplications: '1006975026748203079',
     foursGuide: '1074746690839523468',
     requirements: '711306680763416666',
+    staffApplications: '782003024406249472',
+    learnerChat: '932429372328116275',
+    presetFeedback: '782167070032396328',
+    vodReview: '760142773637873675',
 }
 
 const DevRoles: any = {
@@ -348,6 +356,15 @@ const DevRoles: any = {
     duoGrandmaster: '<@&1043923757732999225>',
     threeSevenGrandmaster: '<@&1043923757732999224>',
     fours: '<@&1077211897931235339>',
+    teacher: '<@&1043923757758156867>',
+    reaper: '<@&1043923757758156866>',
+    owner: '<@&1043923757783326789>',
+    vodReviewer: '<@&1043923757758156865>',
+    botDev: '<@&1043923757691047941>',
+    experienced: '<@&1043923757707829447>',
+    master: '<@&1043923757732999219>',
+    grandmaster: '<@&1043923757732999226>',
+    moderator: '<@&1050759587898339409>',
 }
 
 const ProdRoles: any = {
@@ -362,6 +379,15 @@ const ProdRoles: any = {
     duoGrandmaster: '<@&1074344219285672096>',
     threeSevenGrandmaster: '<@&1074343947507335258>',
     fours: '<@&1074344307068252210>',
+    teacher: '<@&782012576279429174>',
+    reaper: '<@&922061359926104095>',
+    owner: '<@&553738397848698882>',
+    vodReviewer: '<@&829046735715434517>',
+    botDev: '<@&1034587693000167474>',
+    experienced: '<@&981581909387800586>',
+    master: '<@&1024260851286413322>',
+    grandmaster: '<@&1024260846152597575>',
+    moderator: '<@&1050111253185568788>',
 }
 
 const ProdGuildId = '429001600523042818';
