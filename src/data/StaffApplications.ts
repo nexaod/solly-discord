@@ -1,6 +1,6 @@
 import { Channels, Roles } from "../../src/Utils";
 
-export const welcome = `Welcome to Solak Discord's **Staff Application** channel.\n\nTo apply for any of the roles below, please use the <@722196398635745312> panel below.`;
+export const welcome = `Welcome to Solak Discord's **Staff Application** channel.\n\nTo apply for any of the roles below, please use the <@722196398635745312> panel below.\n\u200B`;
 
 // Edit any of these, going to the correct embed will be handled by the bot.
 const trialTeamAvailability = {
