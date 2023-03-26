@@ -1,6 +1,6 @@
 import { Channels, Emojis, Roles } from "../../src/Utils";
 
-export const welcome = `Welcome to Solak Discord's **Trial Application** channel.\n\nFor information about specific role requirements and kill speeds, please scroll down.`;
+export const welcome = `Welcome to Solak Discord's **Trial Application** channel.\n\nFor information about specific role requirements and kill speeds, please scroll down.\n\u200B`;
 
 export const gearRequirements = `Trialed roles require you to conform to <#${Channels.requirements}> in addition to the items listed below.\n\u200B\n\u200B⬥ ${Emojis.disrupt} Disruption Shield\n\u200B⬥ ${Emojis.dummy} Combat Dummy MKII\n\u200B⬥ ${Emojis.spiritualPrayer} x3 if DPS\n\u200B⬥ ${Emojis.kwuarm} Kwuarm Incense Sticks\n\u200B⬥ ${Emojis.spiritWeed} Spirit Weed Incense Sticks\n\u200B⬥ ${Emojis.ripperScroll} ${Emojis.ripperDemon} if DPS\n\u200B⬥ ${Emojis.kalgScroll} ${Emojis.kalgDemon} if Base`;
 
