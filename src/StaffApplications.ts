@@ -1,5 +1,5 @@
-import { Client, EmbedBuilder, TextChannel, Role, Guild } from "discord.js";
-import { Channels, Colours, purgeChannel, stripRole, GuildId, Roles } from "./Utils";
+import { Client, EmbedBuilder, TextChannel } from "discord.js";
+import { Channels, Colours, purgeChannel, Roles } from "./Utils";
 import { welcome, roleData } from "./data/StaffApplications";
 
 const token = process.env.DISCORD_TOKEN; // add your token here
@@ -37,7 +37,7 @@ client.on("ready", async () => {
         await channel.send({ embeds: [createEmbedForRoles(true)] });
     }
     if (roleData.filter(roleObject => !roleObject.available).length) {
-        await channel.send(`⬥ __**Currently NOT Recruiting**__ 🔴`);
+        await channel.send(`\u200B\n⬥ __**Currently NOT Recruiting**__ 🔴`);
         await channel.send({ embeds: [createEmbedForRoles(false)] });
     }
     await process.exit(0)
