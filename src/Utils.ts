@@ -318,6 +318,7 @@ const DevChannels = {
     learnerChat: '1043923760065028164',
     presetFeedback: '1043923760065028165',
     vodReview: '1043923761021325346',
+    testing: '1089111195144949820',
 }
 
 const ProdMessages = {
@@ -342,6 +343,7 @@ const ProdChannels = {
     learnerChat: '932429372328116275',
     presetFeedback: '782167070032396328',
     vodReview: '760142773637873675',
+    testing: '1089111195144949820',
 }
 
 const DevRoles: any = {
@@ -365,6 +367,7 @@ const DevRoles: any = {
     master: '<@&1043923757732999219>',
     grandmaster: '<@&1043923757732999226>',
     moderator: '<@&1050759587898339409>',
+    extreme: '<@&1043923757732999222>',
 }
 
 const ProdRoles: any = {
@@ -388,6 +391,7 @@ const ProdRoles: any = {
     master: '<@&1024260851286413322>',
     grandmaster: '<@&1024260846152597575>',
     moderator: '<@&1050111253185568788>',
+    extreme: '<@&793847049841279007>',
 }
 
 const ProdGuildId = '429001600523042818';

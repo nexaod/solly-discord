@@ -2,7 +2,8 @@
   "scripts": {
     "commands": "ts-node src/Commands.ts",
     "trialApplications": "ts-node src/TrialApplications.ts",
-    "staffApplications": "ts-node src/StaffApplications.ts"
+    "staffApplications": "ts-node src/StaffApplications.ts",
+    "vodReview": "ts-node src/VoDReview.ts"
   },
   "dependencies": {
     "@types/node": "^18.7.23",
