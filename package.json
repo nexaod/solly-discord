@@ -3,7 +3,8 @@
     "commands": "ts-node src/Commands.ts",
     "trialApplications": "ts-node src/TrialApplications.ts",
     "staffApplications": "ts-node src/StaffApplications.ts",
-    "vodReview": "ts-node src/VoDReview.ts"
+    "vodReview": "ts-node src/VoDReview.ts",
+    "requirements": "ts-node src/Requirements.ts"
   },
   "dependencies": {
     "@types/node": "^18.7.23",
