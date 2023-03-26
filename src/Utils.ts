@@ -277,6 +277,17 @@ export const Emojis = {
     vitality: '<:vitality:654618235097972737>',
     kwuarm: '<:KwuarmSticks:565726489341984779>',
     spiritWeed: '<:SpiritSticks:565726489136463894>',
+    supremeOverload: '<:supremeovl:641337551365472276>',
+    replenPot: '<:replenpot:641337470491033600>',
+    adrenPotion: '<:adrenalinepotion:1011705731118006544>',
+    cinderbanes: '<:Cinderbanes:513190158355660812>',
+    torvaPlatebody: '<:TorvaPlatebody:556586038974480424>',
+    darkIceShard: '<:darkiceshard:915232154160594974>',
+    augmentor: '<:augmentor:1039863296729296946>',
+    turmoil: '<:turmoil:583429936606347280>',
+    bladedDive: '<:bd:535532854281764884>',
+    scourge: '<:abyssalscourge:947871842469834832>',
+    bikArrow: '<:bikarrow:971025697235689513>',
 }
 
 
@@ -319,6 +330,7 @@ const DevChannels = {
     presetFeedback: '1043923760065028165',
     vodReview: '1043923761021325346',
     testing: '1089111195144949820',
+    freeForAll: '1089528206631129199',
 }
 
 const ProdMessages = {
@@ -344,6 +356,7 @@ const ProdChannels = {
     presetFeedback: '782167070032396328',
     vodReview: '760142773637873675',
     testing: '1089111195144949820',
+    freeForAll: '984482757277261834',
 }
 
 const DevRoles: any = {
