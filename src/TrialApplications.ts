@@ -37,14 +37,14 @@ client.on("ready", async () => {
         .setDescription(gearRequirements);
     const generalSent = await channel.send({ embeds: [generalEmbed] });
     generalField.value += `⬥ [Gear Requirements](${generalSent.url})\n`;
-    await channel.send(`⬥ __**Metrics Requirement**__`);
+    await channel.send(`\u200B\n⬥ __**Metrics Requirement**__`);
     const metricsEmbed = new EmbedBuilder()
         .setColor(Colours.gold)
         .setDescription(metricsRequirements.description)
         .setImage(metricsRequirements.image);
     const metricsSent = await channel.send({ embeds: [metricsEmbed] });
     generalField.value += `⬥ [Metrics Requirement](${metricsSent.url})\n`;
-    await channel.send(`⬥ __**Additional Information**__`);
+    await channel.send(`\u200B\n⬥ __**Additional Information**__`);
     const notesEmbed = new EmbedBuilder()
         .setColor(Colours.gold)
         .setDescription(notes);
@@ -55,7 +55,7 @@ client.on("ready", async () => {
         value: '',
         inline: true
     };
-    await channel.send(`⬥ __**Duo Role Requirements**__`);
+    await channel.send(`\u200B\n⬥ __**Duo Role Requirements**__`);
     for await (const roleObject of duoRoleData) {
         const discordRoleObject = await guild.roles.fetch(stripRole(Roles[roleObject.role])) as Role;
         let description = `${Roles[roleObject.role]}\n\n${roleObject.timeExpectation}\n\n> __**Requirements**__\n\u200B\n\u200B${roleObject.requirements}\n\n> __**Obtaining**__\n\u200B\n\u200B${roleObject.obtaining}\n\n> __**Kills Per Hour**__\n\u200B\n\u200B${roleObject.kph}`
@@ -70,7 +70,7 @@ client.on("ready", async () => {
         value: '',
         inline: true
     };
-    await channel.send(`⬥ __**3-7 Role Requirements**__`);
+    await channel.send(`\u200B\n⬥ __**3-7 Role Requirements**__`);
     for await (const roleObject of groupRoleData) {
         const discordRoleObject = await guild.roles.fetch(stripRole(Roles[roleObject.role])) as Role;
         let description = `${Roles[roleObject.role]}\n\n${roleObject.timeExpectation}\n\n> __**Requirements**__\n\u200B\n\u200B${roleObject.requirements}\n\n> __**Obtaining**__\n\u200B\n\u200B${roleObject.obtaining}`
