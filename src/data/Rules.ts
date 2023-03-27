@@ -27,7 +27,7 @@ export const content = [
     {
         title: `⬥ __**General Rules**__`,
         toc: 'General',
-        description: `⬥ Follow all of Jagex's [Rules of RuneScape](https://www.runescape.com/game-guide/rules).\n\u200B⬥ Follow all of Discord's [Terms of Service](https://discord.com/terms).\n\u200B⬥ Do not advertise any other discords, communities or services unless listed in <#775920488161214464>.\n\u200B⬥ If you are interested in joining our <#775920488161214464> please contact an ${Roles.owner}.\n\u200B⬥ Your Discord nickname **must** match or include your RSN.\n\n> To contact an ${Roles.owner} or ${Roles.admin} about any issues, please use <#859877764970184714>.`,
+        description: `⬥ Follow all of Jagex's [Rules of RuneScape](https://www.runescape.com/game-guide/rules).\n\u200B⬥ Follow all of Discord's [Terms of Service](https://discord.com/terms).\n\u200B⬥ Do not advertise any other discords, communities or services unless listed in <#775920488161214464>.\n\u200B⬥ If you are interested in joining our <#775920488161214464> please contact an ${Roles.owner}.\n\u200B⬥ Your Discord nickname **must** match or include your RSN.\n\u200B⬥ If you are an iron man, please include \`(iron)\`, i.e. \`Jay LMFAO (iron)\`.\n\n> To contact an ${Roles.owner} or ${Roles.admin} about any issues, please use <#859877764970184714>.`,
     },
     {
         title: `\u200B\n⬥ __**Behavioural Rules**__`,
