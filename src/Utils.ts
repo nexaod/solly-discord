@@ -331,6 +331,7 @@ const DevChannels = {
     vodReview: '1043923761021325346',
     testing: '1089111195144949820',
     freeForAll: '1089528206631129199',
+    rules: '1043923758290833483',
 }
 
 const ProdMessages = {
@@ -357,6 +358,7 @@ const ProdChannels = {
     vodReview: '760142773637873675',
     testing: '1089111195144949820',
     freeForAll: '984482757277261834',
+    rules: '429380211390545920',
 }
 
 const DevRoles: any = {
