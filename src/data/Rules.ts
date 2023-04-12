@@ -11,14 +11,14 @@ export const staffTeam = {
         '671876493785300994', // Faststrike
     ],
     moderators: [
-        '122125308898836480' (Trial Team), // SuparNova
-        '216041543495188490' (Trial Team), // Lion
-        '205580747384422400' (Learner), // Epic Smoke
-        '174273627607400450' (Learner), // Crayonz
-        '376547370235854849' (Reaper), // RDI
-        '236908234911383562' (Reaper), // Fumzy
-        '258055326215962626' (Bot Dev), // Fate
-        '512006696005140492' (Guides), // Stuman
+        '122125308898836480' Trial Team, // SuparNova
+        '216041543495188490' Trial Team, // Lion
+        '205580747384422400' Learner, // Epic Smoke
+        '174273627607400450' Learner, // Crayonz
+        '376547370235854849' Reaper, // RDI
+        '236908234911383562' Reaper, // Fumzy
+        '258055326215962626' Bot Dev, // Fate
+        '512006696005140492' Guides, // Stuman
     ]
 }
 
