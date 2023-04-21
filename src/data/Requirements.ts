@@ -31,6 +31,6 @@ export const content = [
         title: `\u200B\n⬥ __**Notes**__`,
         toc: 'Notes',
         colour: Colours.gold,
-        description: `⬥ The usage of solid foods (${Emojis.sailfishSoup} ${Emojis.sailfish} etc) is prohibited.\n\u200B⬥ ${Emojis.cryptHelm} ${Emojis.cryptBody} ${Emojis.cryptLegs} Cryptbloom is prohibited.\n\u200B⬥ If hybridding some items my be unnecessary (i.e. ${Emojis.gstaff} ${Emojis.eof}). Refer to hybrid guides for example presets.`,
+        description: `⬥ The usage of solid foods (${Emojis.sailfishSoup} ${Emojis.sailfish} etc) is prohibited.\n\u200B⬥ ${Emojis.cryptHelm} ${Emojis.cryptBody} ${Emojis.cryptLegs} Cryptbloom and tank gear is prohibited.\n\u200B⬥ If hybridding some items my be unnecessary (i.e. ${Emojis.gstaff} ${Emojis.eof}). Refer to hybrid guides for example presets.`,
     },
 ]
