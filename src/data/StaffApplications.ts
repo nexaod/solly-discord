@@ -6,7 +6,7 @@ export const welcome = `Welcome to Solak Discord's **Staff Application** channel
 const trialTeamAvailability = {
     experienced: true,
     master: true,
-    grandmaster: true,
+    grandmaster: false,
 }
 
 const isTrialTeamAvailable = () => {
