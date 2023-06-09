@@ -25,7 +25,7 @@ export const roleData = [
     },
     {
         role: `reaper`,
-        available: true,
+        available: false,
         description: `Runs our reaper service - offering free kills for people with 0 KC to help them achieve the reaper crew passive and introduce them to Solak.`,
     },
     {
