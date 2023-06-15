@@ -29,7 +29,7 @@ export const duoRoleData = [
     {
         role: `duoMaster`,
         timeExpectation: `Sub **5:00** kills.`,
-        requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ Prebuild with ${Emojis.nati} or ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterSun} before **1:04**.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as spawn happens.\n\u200B⬥ Phase 1 core exit by **1:40**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Place ${Emojis.dummy} at the start of Phase 2, and lure Solak on top.\n\u200B⬥ Phase 2 rotation capable of arm climb skip.\n\u200B⬥ Should not stall between charging Pad 1 and Pad 2 in Phase 3.`,
+        requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ Prebuild with ${Emojis.nati} or ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterSun} before **1:04**.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as spawn happens.\n\u200B⬥ Phase 1 core exit by **1:40**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rotation capable of arm climb skip.\n\u200B⬥ Should not stall between charging Pad 1 and Pad 2 in Phase 3.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
@@ -52,7 +52,7 @@ export const groupRoleData = [
     {
         role: `threeSevenExperienced`,
         timeExpectation: `Sub **5:15** kills (+15s if 4-Man).`,
-        requirements: `⬥ ${Emojis.nati} and ${Emojis.greaterSun} by **1:06**.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Phase 1 core exit by **1:45**.\n\u200B⬥ Southern eruptions should both die before cleanse finishes.\n\u200B⬥ Northern eruptions should die within 4 GCDs.\n\u200B⬥ Phase 2 should phase before or on the first rain hit.\n\u200B⬥ Phase 3 should be 2 padded, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.\n\u200B⬥ 8 KPH with limited deaths.`,
+        requirements: `⬥ ${Emojis.nati} and ${Emojis.greaterSun} by **1:06**.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Phase 1 core exit by **1:45**.\n\u200B⬥ Southern eruptions should both die before cleanse finishes.\n\u200B⬥ Northern eruptions should die within 4 GCDs.\n\u200B⬥ Phase 2 should phase before or on the first rain hit.\n\u200B⬥ Phase 3 should be 2 padded, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.\n\u200B⬥ 8 KPH with limited deaths.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
     },
     {
