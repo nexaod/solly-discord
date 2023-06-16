@@ -66,11 +66,5 @@ export const groupRoleData = [
         timeExpectation: `Sub **3:50** kills.`,
         requirements: `⬥ Arms require a stalled ${Emojis.greaterChain} released with ${Emojis.nami}.\n\u200B⬥ Phase 1 core exit by **1:28**.\n\u200B⬥ ${Emojis.zerk} to finish eruption within 5 GCDs.\n\u200B⬥ Place 1 ${Emojis.dummy} on Phase 2, and 2 ${Emojis.dummy} on Phase 3.\n\u200B⬥ A late ${Emojis.nami} in Phase 2 to ensure Phase 3 ${Emojis.zerk} ${Emojis.critBuff}.\n\u200B⬥ ${Emojis.meteor} in Phase 3 ${Emojis.zerk} is required to extend ${Emojis.critBuff}.\n\u200B⬥ Phase 3 should be 2 padded, with Solak being less than 700k HP when the elf dies.\n\u200B⬥ Pre-${Emojis.greaterBarge} with a stalled ${Emojis.assault} on P4.\n\u200B⬥ 12 KPH with very few deaths.`,
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtain through a trial.`,
-    },
-    {
-        role: `fours`,
-        timeExpectation: `Sub **3:45** kills.`,
-        requirements: `⬥ ${Roles.threeSevenGrandmaster} is required to apply.\n\u200B⬥ Near perfect execution of <#${Channels.foursGuide}> throughout the hour.\n\u200B⬥ Use 25-30 ${Emojis.ripperScroll} ${Emojis.ripperDemon} every kill.\n\u200B`,
-        obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtain through a trial.\n\u200B⬥ A recording of the hour from your PoV is preferable.`,
     }
 ]
