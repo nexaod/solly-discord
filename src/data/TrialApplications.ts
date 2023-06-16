@@ -36,7 +36,7 @@ export const duoRoleData = [
     {
         role: `duoGrandmaster`,
         timeExpectation: `Sub **4:20** kills.`,
-        requirements: `⬥ Prebuild with ${Emojis.nati} and ${Emojis.incend}/${Emojis.meteor}.\n\u200B⬥ ${Emojis.greaterSun} by 58 seconds with pre ${Emojis.fsoa} ${Emojis.spec} and a stalled ${Emojis.greaterChain} on arms are required.\n\u200B⬥ ${Emojis.detonate} and ${Emojis.nami} required on legs.\n\u200B⬥ Phase 1 core exit by **1:34**.\n\u200B⬥ Storm tank required + finish eruptions within 4.6 GCDs (3 hit ${Emojis.assault}).\n\u200B⬥ Phase 2 capable of rain skip on average.\n\u200B⬥ Insta-pad Phase 3 with 2 pads maximum.\n\u200B⬥ Solid decision making i.e. entering elf.`,
+        requirements: `⬥ Prebuild with ${Emojis.nati} and ${Emojis.incend}/${Emojis.meteor}.\n\u200B⬥ ${Emojis.greaterSun} by 58 seconds with pre ${Emojis.fsoa} ${Emojis.spec} and a stalled ${Emojis.greaterChain} on arms are required.\n\u200B⬥ ${Emojis.detonate} and ${Emojis.nami} required on legs.\n\u200B⬥ Phase 1 core exit by **1:34**.\n\u200B⬥ Storm tank required + finish eruptions within 4.6 GCDs (3 hit ${Emojis.assault}).\n\u200B⬥ Phase 2 capable of rain skip on average.\n\u200B⬥ Insta-pad Phase 3 with 2 pads maximum.\n\u200B⬥ Solid decision making i.e. entering elf.\n\u200B⬥ Reference rotation: <#${Channels.duoGuide}> `,
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     }
@@ -64,7 +64,7 @@ export const groupRoleData = [
     {
         role: `threeSevenGrandmaster`,
         timeExpectation: `Sub **3:50** kills.`,
-        requirements: `⬥ Arms require a stalled ${Emojis.greaterChain} released with ${Emojis.nami}.\n\u200B⬥ Phase 1 core exit by **1:28**.\n\u200B⬥ ${Emojis.zerk} to finish eruption within 5 GCDs.\n\u200B⬥ Place 1 ${Emojis.dummy} on Phase 2, and 2 ${Emojis.dummy} on Phase 3.\n\u200B⬥ A late ${Emojis.nami} in Phase 2 to ensure Phase 3 ${Emojis.zerk} ${Emojis.critBuff}.\n\u200B⬥ ${Emojis.meteor} in Phase 3 ${Emojis.zerk} is required to extend ${Emojis.critBuff}.\n\u200B⬥ Phase 3 should be 2 padded, with Solak being less than 700k HP when the elf dies.\n\u200B⬥ Pre-${Emojis.greaterBarge} with a stalled ${Emojis.assault} on P4.\n\u200B⬥ 12 KPH with very few deaths.`,
+        requirements: `⬥ Arms require a stalled ${Emojis.greaterChain} released with ${Emojis.nami}.\n\u200B⬥ Phase 1 core exit by **1:28**.\n\u200B⬥ ${Emojis.zerk} to finish eruption within 5 GCDs.\n\u200B⬥ Place 1 ${Emojis.dummy} on Phase 2, and 2 ${Emojis.dummy} on Phase 3.\n\u200B⬥ A late ${Emojis.nami} in Phase 2 to ensure Phase 3 ${Emojis.zerk} ${Emojis.critBuff}.\n\u200B⬥ ${Emojis.meteor} in Phase 3 ${Emojis.zerk} is required to extend ${Emojis.critBuff}.\n\u200B⬥ Phase 3 should be 2 padded, with Solak being less than 700k HP when the elf dies.\n\u200B⬥ Pre-${Emojis.greaterBarge} with a stalled ${Emojis.assault} on P4.\n\u200B⬥ 12 KPH with very few deaths.\n\u200B⬥ Reference rotation: <#${Channels.foursGuide}> `,
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtain through a trial.`,
     }
 ]
