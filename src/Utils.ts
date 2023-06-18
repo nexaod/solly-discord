@@ -367,7 +367,7 @@ const DevRoles: any = {
     trialTeam: '<@&1043923757783326780>',
     admin: '<@&1043923757783326788>',
     duoMaster: '<@&1043923757732999218>',
-    threeSevenMaster: '<@&1043923757707829449>',
+    threeSevenMaster: '<@&1119368648482623559>',
     duoRootskips: '<@&1043923757707829443>',
     threeSevenRootskips: '<@&1043923757707829442>',
     duoExperienced: '<@&1043923757707829446>',
