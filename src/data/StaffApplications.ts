@@ -51,6 +51,6 @@ export const roleData = [
     {
         role: `moderator`,
         available: false,
-        description: `Leads specific teams, review new staff applications for their team and helps bring new ideas for server improvements.`,
+        description: `Leads specific teams, reviews new staff applications for their team and helps bring new ideas for server improvements.`,
     }
 ]
