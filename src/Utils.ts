@@ -290,6 +290,7 @@ export const Emojis = {
     bikArrow: '<:bikarrow:971025697235689513>',
     reaverPouch: '<:reaverpouch:839903693837959228>',
     evolvToxin: '<:evolvingtoxin:1016651068882550885>',
+    vampAura: '<:vampaura:643505653079343144>',
 }
 
 
