@@ -25,7 +25,7 @@ export const content = [
         title: `\u200B\n⬥ __**Ranged Additional Requirements**__`,
         toc: 'Ranged Additional',
         colour: Colours.green,
-        description: `⬥ ${Emojis.plantedFeet} Planted Feet **OR** ${Emojis.greaterDeathSwiftness} Greater Death's Swiftness\n\u200B⬥ ${Emojis.grico} Greater Ricochet\n\u200B⬥ ${Emojis.caroming4} Caroming 4\n\u200B⬥ ${Emojis.rubyBak} ${Emojis.hydrixBak} Bakriminel Bolts **OR** ${Emojis.fulArrow} ${Emojis.bikArrow} ${Emojis.deathspore} Dinarrows`,
+        description: `⬥ ${Emojis.plantedFeet} Planted Feet **OR** ${Emojis.greaterDeathSwiftness} Greater Death's Swiftness\n\u200B⬥ ${Emojis.grico} Greater Ricochet\n\u200B⬥ ${Emojis.caroming4} Caroming 4\n\u200B⬥ ${Emojis.rubyBak} ${Emojis.hydrixBak} Bakriminel Bolts **OR** ${Emojis.fulArrow} ${Emojis.bikArrow} ${Emojis.deathspore} T95 Arrows`,
     },
     {
         title: `\u200B\n⬥ __**Notes**__`,
