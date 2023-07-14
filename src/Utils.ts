@@ -288,6 +288,8 @@ export const Emojis = {
     bladedDive: '<:bd:535532854281764884>',
     scourge: '<:abyssalscourge:947871842469834832>',
     bikArrow: '<:bikarrow:971025697235689513>',
+    reaverPouch: '<:reaverpouch:839903693837959228>',
+    evolvToxin: '<:evolvingtoxin:1016651068882550885>',
 }
 
 
