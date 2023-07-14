@@ -27,7 +27,7 @@ export const duoRoleData = [
         kph: `This role expects 7 KPH.`,
     },
     {
-        role: `duoMaster`,
+        role: `duoMaster (Magic)`,
         timeExpectation: `Sub **5:00** kills.`,
         requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ Prebuild with ${Emojis.nati} or ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterSun} before **1:04**.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as spawn happens.\n\u200B⬥ Phase 1 core exit by **1:40**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rotation capable of arm climb skip.\n\u200B⬥ Phase 3 should be 2 padded at max, no stalling between pad charge.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
