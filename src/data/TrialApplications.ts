@@ -15,14 +15,21 @@ export const duoRoleData = [
     {
         role: `duoRootskips`,
         timeExpectation: `Sub **7:00** kills.`,
-        requirements: `⬥ Skip roots by 50 seconds.\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
+        requirements: `⬥ Skip roots by 50 seconds (58 if Ranging).\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoRootskips}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 6 KPH.`,
     },
     {
         role: `duoExperienced`,
-        timeExpectation: `Sub **6:15** kills.`,
+        timeExpectation: ` __Magic Requirements:__\n\u200B Sub **6:15** kills.`,
         requirements: `⬥ A prebuild for legs is required (${Emojis.nati}, ${Emojis.incend}), with ${Emojis.greaterSun} placed within 1 GCD of arm spawn.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ ${Emojis.detonate} and ${Emojis.nami} on legs.\n\u200B⬥ Phase 1 core exit by **1:48**.\n\u200B⬥ Eruptions should be completed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 should be capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 should be two pad at most, with 1 cycle elf. Hybrids are expected to ${Emojis.zerk} elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
+        obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
+        kph: `This role expects 7 KPH.`,
+    },
+    {
+        role: `duoExperienced`,
+        timeExpectation: ` __Ranged Requirements:__\n\u200B Sub **6:10** kills.`,
+        requirements: `⬥ Minimum of 40 (80%) ${Emojis.evolvToxin} stacks per Ranger at the time of rootskip.\n\u200B⬥ A prebuild for legs is required (${Emojis.nati} or ${Emojis.deathspore} ${Emojis.inced} / ${Emojis.nami} with ${Emojis.greaterDeathSwiftness} placed within 1 GCD of Arms spawn.\n\u200B⬥ ${Emojis.fulArrowArms} utilized on arms, legs and core with a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Phase 1 core exit by **1:56**.\n\u200B⬥ Eruptions should be completed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ ${Emojis.deathspore} ${Emojis.inced} / ${Emojis.nami} for a crit buffed Phase 2 ${Emojis.greaterDeathSwiftness}.\n\u200B⬥ Minimum of 65 ${Emojis.evolvToxin} stacks (130%) per Ranger at the time of Phase 2 ${Emojis.greaterDeathSwiftness}.\n\u200B⬥ Phase 2 should be capped with less than 3 Rain hits on average.\n\u200B⬥ Minimum 100 (200%) ${Emojis.evolvToxin} stacks per Ranger at the time of Phase 2 Cap.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
     },
