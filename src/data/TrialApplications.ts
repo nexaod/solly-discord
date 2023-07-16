@@ -43,7 +43,7 @@ export const duoRoleData = [
     {
         role: `duoMaster`,
         timeExpectation: `__**Ranged Requirements:**__\n\u200B Sub **5:00** kills.`,
-        requirements: `⬥ Minimum of 50 (100%) ${Emojis.evolvToxin} stacks per Ranger at the time of rootskip.\n\u200B⬥ Effective use of ${Emojis.bolg} ${Emojis.spec} and ${Emojis.ecb} ${Emojis.spec} throughout the fight.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.deathspore} / ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterDeathSwiftness} before **1:06**.\n\u200B⬥ Legs killed within 3 GCD using ${Emojis.chin}.\n\u200B⬥ ${Emojis.sgbEof} used on core.\n\u200B⬥ Phase 1 core exit by **1:50**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Phase 2 capable of rain skip on average.\n\u200B⬥ Minimum of 125 (250%) ${Emojis.evolvToxin} stacks per Ranger at the time for Phase 2 cap.`,
+        requirements: `⬥ Minimum of 50 (100%) ${Emojis.evolvToxin} stacks per Ranger at the time of rootskip.\n\u200B⬥ Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.deathspore} ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterDeathSwiftness} before **1:06**.\n\u200B⬥ Legs killed within 3 GCD using ${Emojis.chin}.\n\u200B⬥ ${Emojis.sgbEof} ${Emojis.eofSpec} used on core.\n\u200B⬥ Phase 1 core exit by **1:50**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Phase 2 capable of rain skip on average.\n\u200B⬥ Minimum of 125 (250%) ${Emojis.evolvToxin} stacks per Ranger at the time for Phase 2 cap.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
@@ -60,18 +60,24 @@ export const groupRoleData = [
     {
         role: `threeSevenRootskips`,
         timeExpectation: `Sub **6:30** kills (5-man).`,
-        requirements: `⬥ Rootskip by 45 seconds.\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
+        requirements: `⬥ Rootskip by 45 seconds (50 if Ranging).\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoRootskips}+ or ${Roles.threeSevenRootskips}+.\n\u200B⬥ This role can only be obtained through VoD submission.`,
     },
     {
         role: `threeSevenExperienced`,
-        timeExpectation: `Sub **5:15** kills (5-man).`,
-        requirements: `⬥ ${Emojis.nati} and ${Emojis.greaterSun} by **1:06**.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Phase 1 core exit by **1:45**.\n\u200B⬥ ${Emojis.detonate} and ${Emojis.dbreath} required on legs.\n\u200B⬥ Southern eruptions should both die before cleanse finishes.\n\u200B⬥ Northern eruptions should die within 4 GCDs.\n\u200B⬥ Phase 2 should phase before or on the first rain hit.\n\u200B⬥ Phase 3 should be 2 padded, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.\n\u200B⬥ 8 KPH with limited deaths.`,
+        timeExpectation: `__**Magic Requirements:**__\n\u200B Sub **5:15** kills (5-man).`,
+        requirements: `⬥ ${Emojis.nati} and ${Emojis.greaterSun} by **1:06**.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Phase 1 core exit by **1:45**.\n\u200B⬥ ${Emojis.detonate} and ${Emojis.dbreath} required on legs.\n\u200B⬥ Southern eruptions should both die before cleanse finishes.\n\u200B⬥ Northern eruptions should die within 4 GCD.\n\u200B⬥ Phase 2 should phase before the second rain hit.\n\u200B⬥ Phase 3 should be 2 padded, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.\n\u200B⬥ 8 KPH with limited deaths.`,
+        obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
+    },
+    {
+        role: `threeSevenExperienced`,
+        timeExpectation: `__**Ranged Requirements:**__\n\u200B Sub **5:15** kills (5-man).`,
+        requirements: `Minimum of 40 (80%) ${Emojis.evolvToxin} stacks per Ranger at the time of rootskip.\n\u200B⬥ Prebuild with ${Emojis.nati} or ${Emojis.deathspore} ${Emojis.incend} and ${Emojis.greaterDeathSwiftness} by **1:08**.\n\u200B⬥ ${Emojis.fulArrow} utilized on arms, legs and core with a solid rotation that allows for consistent 1 cycle cores.\n\u200B⬥ Phase 1 core exit by **1:53**.\n\u200B⬥ Southern eruptions should both die before cleanse finishes.\n\u200B⬥ Northern eruptions should die within 4 GCD.\n\u200B⬥ Phase 2 should phase before the first rain hit.\n\u200B⬥ Phase 3 should be 2 padded.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.\n\u200B⬥ 8 KPH with limited deaths.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
     },
     {
         role: `threeSevenMaster`,
-        timeExpectation: `Sub **4:30** kills (5-man).`,
+        timeExpectation: `__**Magic Requirements:**__\n\u200B Sub **4:30** kills (5-man).`,
         requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ ${Emojis.p6} ${Emojis.c1} on ${Emojis.inquis}.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.greaterSun} at 58 seconds with ${Emojis.fsoa} ${Emojis.spec} before arms.\n\u200B⬥ ${Emojis.greaterChain} and ${Emojis.nami} first two abilities on arms.\n\u200B⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required, ${Emojis.zerk} to finish eruption within 6 GCDs.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ ${Emojis.zerk} at the start of Phase 3.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before entering Elf.\n\u200B⬥ Phase 3 should be 2 padded at max, no stalling between pad charge.\n\u200B⬥ ${Emojis.nati} should be used at the end of Phase 3 for a better Phase 4 rotation.\n\u200B⬥ 10 KPH with limited deaths.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
     },
