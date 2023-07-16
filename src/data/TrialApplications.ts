@@ -35,14 +35,14 @@ export const duoRoleData = [
     },
     {
         role: `duoMaster`,
-        timeExpectation: `__**Magic Requirements:**__\n\u200B Sub **4:55** kills.`,
+        timeExpectation: `__**Magic Requirements:**__\n\u200B Sub **5:00** kills.`,
         requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ Prebuild with ${Emojis.nati} or ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterSun} before **1:04**.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as spawn happens.\n\u200B⬥ Phase 1 core exit by **1:40**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rotation capable of arm climb skip.\n\u200B⬥ Phase 3 should be 2 padded at max, no stalling between pad charge.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
     {
         role: `duoMaster`,
-        timeExpectation: `__**Ranged Requirements:**__\n\u200B Sub **5:00** kills.`,
+        timeExpectation: `__**Ranged Requirements:**__\n\u200B Sub **4:55** kills.`,
         requirements: `⬥ Minimum of 50 (100%) ${Emojis.evolvToxin} stacks per Ranger at the time of rootskip.\n\u200B⬥ Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.deathspore} ${Emojis.incend}.\n\u200B⬥ Place ${Emojis.greaterDeathSwiftness} before **1:06**.\n\u200B⬥ Legs killed within 3 GCD using ${Emojis.chin}.\n\u200B⬥ ${Emojis.sgbEof} ${Emojis.eofSpec} used on core.\n\u200B⬥ Phase 1 core exit by **1:50**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ Phase 2 capable of rain skip on average.\n\u200B⬥ Minimum of 125 (250%) ${Emojis.evolvToxin} stacks per Ranger at the time for Phase 2 cap.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
