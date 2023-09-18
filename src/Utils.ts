@@ -291,6 +291,16 @@ export const Emojis = {
     reaverPouch: '<:reaverpouch:839903693837959228>',
     evolvToxin: '<:evolvingtoxin:1016651068882550885>',
     vampAura: '<:vampaura:643505653079343144>',
+    igneouskalmor: '<:igneouskalmor:1139200072438005851>',
+    conjurewarrior: '<:conjurewarrior:1137809204112011274>',
+    commandwarrior: '<:commandwarrior:1137809194423160883>',
+    conjurezombie: '<:​conjurezombie:1137809200219684924>',
+    commandzombie: '<:commandzombie:1137809191231295549>​',
+    conjureghost: '<:conjureghost:1137809206423060632>',
+    commandghost: '<:commandghost:1137809196864262154>',
+    spiritpact3: '<:spiritpact3:1137809165759295639>',
+    threadsoffate: '<:threadsoffate:1137809172335951933>',
+    splitsoul: '<:splitsoul:1137809168368148490>',
 }
 
 
