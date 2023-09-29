@@ -14,22 +14,22 @@ export const notes = `⬥ All requirements listed for a specific role must be pe
 export const duoRoleData = [
     {
         role: `duoRootskips`,
-        timeExpectation: `Sub **7:00** kills. (Necro / ${Emojis.ranged}/${Emojis.magic})`,
-        requirements: `⬥ Skip roots by 50 seconds (58 if Ranging).\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
+        timeExpectation: `Sub **7:00** kills (${Emojis.necro} / ${Emojis.ranged} / ${Emojis.magic})`,
+        requirements: `⬥ Skip roots by 50 seconds (58 for ${Emojis.ranged}).\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoRootskips}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 6 KPH.`,
     },
     {
         role: `duoExperienced`,
-        timeExpectation: `Sub **6:00** kills (Necro), Sub **6:15** kills. (${Emojis.ranged}, ${Emojis.magic}) `,
-        requirements: `⬥ A prebuild for Arms is required (${Emojis.nati}, ${Emojis.incend}), with ${Emojis.greaterSun} / ${Emojis.greaterDeathSwiftness} placed within 1 GCD of arm spawn.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Magic: ${Emojis.detonate} and ${Emojis.nami} on legs.\n\u200B⬥ Phase 1 Core exit by: **1:48** - Necro / ${Emojis.magic}, **1:56** (${Emojis.ranged}).\n\u200B⬥ Eruptions should be completed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 should be capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 should be two pad at most, with 1 cycle elf. Hybrids are expected to ${Emojis.zerk} elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
+        timeExpectation: `Sub **6:00** kills (${Emojis.necro}), Sub **6:15** kills. (${Emojis.ranged} / ${Emojis.magic}) `,
+        requirements: `⬥ A prebuild for Arms is required (${Emojis.nati}/${Emojis.incend}), with ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} placed within 1 GCD of arm spawn.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ ${Emojis.magic}: ${Emojis.detonate} and ${Emojis.nami} on legs.\n\u200B⬥ Phase 1 Core exit by: **1:48** - ${Emojis.necro}/${Emojis.magic}, **1:56** (${Emojis.ranged})\n\u200B⬥ Eruptions should be completed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 should be capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 should be two pad at most, with 1 cycle elf. Hybrids are expected to ${Emojis.zerk} elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
     },
     {
         role: `duoMaster`,
-        timeExpectation: `Sub **5:00** kills (${Emojis.ranged}, ${Emojis.magic})`,
-        requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.ranged}: Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ ${Emojis.magic}: Prebuild for Arms with ${Emojis.nati} or ${Emojis.incend}. ${Emojis.ranged}: Prebuild for Arms with ${Emojis.nati} and ${Emojis.incend} \n\u200B⬥ Place ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} before **1:04**/**1:06**.\n\u200B⬥ ${Emojis.magic}: ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as spawn happens.\n\u200B⬥ Phase 1 Core exit by: ${Emojis.magic} - **1:40**, ${Emojis.ranged} - **1:50**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rotation capable of rain skip (${Emojis.magic}), arm climb skip on average.\n\u200B⬥ Phase 3 should be 2 padded at max, no stalling between pad charge.`,
+        timeExpectation: `Sub **5:00** kills (${Emojis.ranged}/${Emojis.magic})`,
+        requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.ranged}: Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ ${Emojis.magic}: Prebuild for Arms with ${Emojis.nati} or ${Emojis.incend}.\n\u200B⬥ ${Emojis.ranged}: Prebuild for Arms with ${Emojis.nati} and ${Emojis.incend} \n\u200B⬥ Place ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} before **1:04**/**1:06**.\n\u200B⬥ ${Emojis.magic}: ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as spawn happens.\n\u200B⬥ Phase 1 Core exit by: ${Emojis.magic} - **1:40**, ${Emojis.ranged} - **1:50**.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rotation capable of rain skip (${Emojis.ranged}) or arm climb skip on average (${Emojis.magic}).\n\u200B⬥ Phase 3 should be 2 padded at max, no stalling between pad charge.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
