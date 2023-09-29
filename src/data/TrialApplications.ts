@@ -21,7 +21,7 @@ export const duoRoleData = [
     },
     {
         role: `duoExperienced`,
-        timeExpectation: `Sub **6:00** kills (${Emojis.necro}), Sub **6:15** kills (${Emojis.ranged} / ${Emojis.magic})`,
+        timeExpectation: `Sub **6:00** kills (${Emojis.necro})\n\u200BSub **6:15** kills (${Emojis.ranged} / ${Emojis.magic})`,
         requirements: `⬥ Prebuild for Arms with (${Emojis.nati}/${Emojis.incend}), with ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} placed within 1 GCD of arm spawn.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ ${Emojis.magic}: ${Emojis.detonate} and ${Emojis.nami} on legs.\n\u200B⬥ Phase 1 Core exit by **1:48** (${Emojis.necro}/${Emojis.magic}), **1:56** (${Emojis.ranged}).\n\u200B⬥ Eruptions killed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most, with 1 cycle elf. Hybrids are expected to ${Emojis.zerk} elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
@@ -57,7 +57,7 @@ export const groupRoleData = [
     },
     {
         role: `threeSevenMaster`,
-        timeExpectation: `Sub **4:30** kills (5-man ${Emojis.necro} / ${Emojis.ranged} / ${Emojis.magic})`,
+        timeExpectation: `Sub **4:30** kills (5-man ${Emojis.magic} / ${Emojis.attack} Hybrid)`,
         requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ ${Emojis.p6} ${Emojis.c1} on ${Emojis.inquis}.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.greaterSun} at 58 seconds with ${Emojis.fsoa} ${Emojis.spec} before arms.\n\u200B⬥ ${Emojis.greaterChain} and ${Emojis.nami} first two abilities on arms.\n\u200B⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required, ${Emojis.zerk} to finish eruption within 6 GCDs.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ ${Emojis.zerk} at the start of Phase 3.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before entering Elf.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B⬥ ${Emojis.nati} used at the end of Phase 3 for a better Phase 4 rotation.\n\u200B⬥ 10 KPH with limited deaths.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
     },
