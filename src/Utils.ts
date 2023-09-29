@@ -57,7 +57,7 @@ export const Emojis = {
     vulnBomb: '<:vulnbomb:655341074235129858>',
     amalg: '<:shadowamalg:878739232951255091>',
     magic: '<:Magic:689504724159823906>',
-    melee: '<:melee:615612332521029632>',
+    melee: '<:melee:1096130867279171706>',
     dummy: '<:dummy:656844963522281473>',
     nex: '<:aod:580167371365548042>',
     detonate: '<:deto:535533833358016512>',
