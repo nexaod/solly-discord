@@ -73,7 +73,7 @@ client.on("ready", async () => {
     await channel.send(`\u200B\n⬥ __**3-7 Role Requirements**__`);
     for await (const roleObject of groupRoleData) {
         const discordRoleObject = await guild.roles.fetch(stripRole(Roles[roleObject.role])) as Role;
-        let description = `${Roles[roleObject.role]}\n\n${roleObject.timeExpectation}\n\n> __**Requirements**__\n\u200B\n\u200B${roleObject.requirements}\n\n> __**Obtaining**__\n\u200B\n\u200B${roleObject.obtaining}`
+        let description = `${Roles[roleObject.role]}\n\n${roleObject.timeExpectation}\n\n> __**Requirements**__\n\u200B\n\u200B${roleObject.requirements}\n\n> __**Obtaining**__\n\u200B\n\u200B${roleObject.obtaining}\n\n> __**Kills Per Hour**__\n\u200B\n\u200B${roleObject.kph}`
         const generalEmbed = new EmbedBuilder()
             .setColor(discordRoleObject.color)
             .setDescription(description);
