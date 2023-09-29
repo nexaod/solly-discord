@@ -301,6 +301,7 @@ export const Emojis = {
     spiritpact3: '<:spiritpact3:1137809165759295639>',
     threadsoffate: '<:threadsoffate:1137809172335951933>',
     splitsoul: '<:splitsoul:1137809168368148490>',
+    necro: '<:necromancy:1148995625896120460>',
 }
 
 
