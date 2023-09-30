@@ -296,7 +296,7 @@ export const Emojis = {
     igneouskalmor: '<:igneouskalmor:1139200072438005851>',
     conjurewarrior: '<:conjurewarrior:1137809204112011274>',
     commandwarrior: '<:commandwarrior:1137809194423160883>',
-    conjurezombie: '<:​conjurezombie:1137809200219684924>',
+    conjurezombie: '<:conjurezombie:1137809200219684924>',
     commandzombie: '<:commandzombie:1137809191231295549>​',
     conjureghost: '<:conjureghost:1137809206423060632>',
     commandghost: '<:commandghost:1137809196864262154>',
@@ -306,6 +306,9 @@ export const Emojis = {
     necro: '<:necromancy:1148995625896120460>',
     attack: '<:attack:689509250472476758>',
     gboneshield: '<:greaterboneshield:1137809118283976814>',
+    dealerhood80: '<:dealerhood80:1142783479810117702>',
+    deathguard80: '<:deathguard80:1138809249061929082>',
+    skulllantern80: '<:skulllantern80:1138809247308709988>',
 }
 
 
