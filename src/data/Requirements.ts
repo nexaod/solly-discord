@@ -31,7 +31,7 @@ export const content = [
         title: `\u200B\n⬥ __**Necromancy Additional Requirements**__`,
         toc: 'Necromancy Additional',
         colour: Colours.purple,
-        description: `⬥ The following Talents & Incantations Unlocked: ${Emojis.conjurewarrior}, ${Emojis.commandwarrior}, ${Emojis.conjurezombie}, ${Emojis.commandzombie}, ${Emojis.conjureghost}, ${Emojis.commandghost}, ${Emojis.spiritpact3}, ${Emojis.threadsoffate}, ${Emojis.gboneshield}.`,
+        description: `⬥ Conjures + Commands: ${Emojis.conjurewarrior}, ${Emojis.commandwarrior}, ${Emojis.conjurezombie}, ${Emojis.commandzombie}, ${Emojis.conjureghost}, ${Emojis.commandghost}\n\u200B⬥ Spirit Pact III ${Emojis.spiritpact3}\n\u200B⬥ ${Emojis.incantations} Incantations: ${Emojis.threadsoffate}, ${Emojis.gboneshield}.`,
     },
     {
         title: `\u200B\n⬥ __**Notes**__`,
