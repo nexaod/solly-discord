@@ -25,6 +25,7 @@ export const Colours = {
     default: 5198940,
     lightblue: 302332,
     darkgrey: 333333,
+    purple: 10181046,
     discord: {
         green: 5763719,
         red: 15548997
