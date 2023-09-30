@@ -28,6 +28,12 @@ export const content = [
         description: `⬥ ${Emojis.plantedFeet} Planted Feet **OR** ${Emojis.greaterDeathSwiftness} Greater Death's Swiftness\n\u200B⬥ ${Emojis.grico} Greater Ricochet\n\u200B⬥ ${Emojis.caroming4} Caroming 4\n\u200B⬥ ${Emojis.rubyBak} ${Emojis.hydrixBak} Bakriminel Bolts **OR** ${Emojis.fulArrow} ${Emojis.bikArrow} ${Emojis.deathspore} T95 Arrows`,
     },
     {
+        title: `\u200B\n⬥ __**Necromancy Additional Requirements**__`,
+        toc: 'Necromancy Additional',
+        colour: Colours.purple,
+        description: `⬥ The following Talents Unlocked: Conjures/Commands: skeleton, ghost, zombie. Great Bone Shield, Spirit Pact 3, Threads of Fate.`,
+    },
+    {
         title: `\u200B\n⬥ __**Notes**__`,
         toc: 'Notes',
         colour: Colours.gold,
