@@ -305,6 +305,7 @@ export const Emojis = {
     splitsoul: '<:splitsoul:1137809168368148490>',
     necro: '<:necromancy:1148995625896120460>',
     attack: '<:attack:689509250472476758>',
+    gboneshield: '<:greaterboneshield:1137809118283976814>',
 }
 
 
