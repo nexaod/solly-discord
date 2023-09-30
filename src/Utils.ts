@@ -309,6 +309,7 @@ export const Emojis = {
     dealerhood80: '<:dealerhood80:1142783479810117702>',
     deathguard80: '<:deathguard80:1138809249061929082>',
     skulllantern80: '<:skulllantern80:1138809247308709988>',
+    incantations: '<:incantations:1137999674842808410>',
 }
 
 
