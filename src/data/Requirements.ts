@@ -31,7 +31,7 @@ export const content = [
         title: `\u200B\n⬥ __**Necromancy Additional Requirements**__`,
         toc: 'Necromancy Additional',
         colour: Colours.purple,
-        description: `⬥ The following Talents Unlocked: Conjures/Commands: skeleton, ghost, zombie. Great Bone Shield, Spirit Pact 3, Threads of Fate.`,
+        description: `⬥ The following Talents & Incantations Unlocked: ${Emojis.conjurewarrior}, ${Emojis.commandwarrior}, ${Emojis.conjurezombie}, ${Emojis.commandzombie}, ${Emojis.conjureghost}, ${Emojis.commandghost}, ${Emojis.spiritpact3}, ${Emojis.threadsoffate}, ${Emojis.gboneshield}.`,
     },
     {
         title: `\u200B\n⬥ __**Notes**__`,
