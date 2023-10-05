@@ -308,6 +308,8 @@ export const Emojis = {
     incantations: '<:incantations:1137999674842808410>',
     threadsoffate: '<:threadsoffate:1137809172335951933>',
     gboneshield: '<:greaterboneshield:1137809118283976814>',
+    lifetransfer: '<:lifetransfer:1137809128136388819>',
+    invokedeath: '<::invokedeath:1137809121983336548>',
     splitsoul: '<:splitsoul:1137809168368148490>',
     spiritpact3: '<:spiritpact3:1137809165759295639>',
     ruination: '<:ruination:1137940996391452772>',
