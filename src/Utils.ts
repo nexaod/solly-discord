@@ -294,7 +294,7 @@ export const Emojis = {
     evolvToxin: '<:evolvingtoxin:1016651068882550885>',
     vampAura: '<:vampaura:643505653079343144>',
     igneouskalmor: '<:igneouskalmor:1139200072438005851>',
-    conjureskeleton: '<:conjureskeleton:1137809204112011274>',
+    conjurewarrior: '<:conjurewarrior:1137809204112011274>',
     commandwarrior: '<:commandwarrior:1137809194423160883>',
     conjurezombie: '<:conjurezombie:1137809200219684924>',
     commandzombie: '<:commandzombie:1137809191231295549>​',
