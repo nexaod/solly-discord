@@ -11,9 +11,9 @@ export const staffTeam = {
     admins: [
         '301111712336052225', // Virius
         '292290745841352704', // hieno68
+        '205580747384422400', // Epic Smoke
     ],
     moderators: [
-        '205580747384422400', // Epic Smoke
         '376547370235854849', // RDI
         '258055326215962626', // Fate
     ]
