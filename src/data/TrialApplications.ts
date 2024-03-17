@@ -22,14 +22,14 @@ export const duoRoleData = [
     {
         role: `duoExperienced`,
         timeExpectation: `Sub **5:30** kills`,
-        requirements: `⬥ Prebuild for Arms with ${Emojis.nati} or ${Emojis.incend}, with ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} placed within 1 GCD of Arm spawn.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ ${Emojis.magic}: ${Emojis.detonate} and ${Emojis.nami} on legs.\n\u200B⬥ Phase 1 Core exit by **1:48** (${Emojis.necro}/${Emojis.magic}), **1:56** (${Emojis.ranged}).\n\u200B⬥ Eruptions killed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most, with 1 cycle elf. Hybrids are expected to ${Emojis.zerk} elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
+        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Eruptions killed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most, with 1 cycle elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
     },
     {
         role: `duoMaster`,
         timeExpectation: `Sub **4:30** kills`,
-        requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.ranged}: Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ Prebuild for Arms with ${Emojis.nati} or ${Emojis.incend} for ${Emojis.magic}, both for ${Emojis.ranged}.\n\u200B⬥ Place ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} before **1:04**/**1:06**.\n\u200B⬥ ${Emojis.magic}: ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as they spawn.\n\u200B⬥ Phase 1 Core exit by **1:40** (${Emojis.magic}), **1:50** (${Emojis.ranged}).\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
+        requirements: `⬥ ${Emojis.ranged}: Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     }
@@ -46,14 +46,14 @@ export const groupRoleData = [
     {
         role: `threeSevenExperienced`,
         timeExpectation: `Sub **4:50** kills`,
-        requirements: `⬥ Prebuild for Arms with ${Emojis.nati} and ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} by **1:06**/**1:08**.\n\u200B⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Phase 1 core exit by **1:45** (${Emojis.necro}/${Emojis.magic}), **1:53** (${Emojis.ranged}).\n\u200B⬥ ${Emojis.magic}: ${Emojis.detonate} and ${Emojis.dbreath} required on legs.\n\u200B⬥ Southern eruptions killed before cleanse finishes.\n\u200B⬥ Northern eruptions killed within 4 GCD.\n\u200B⬥ Phase into Phase 3 before the second rain hit.\n\u200B⬥ Phase 3 two padded at most, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
+        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Northern eruptions killed within 4 GCD.\n\u200B⬥ Phase into Phase 3 before the second rain hit.\n\u200B⬥ Phase 3 two padded at most, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
     {
         role: `threeSevenMaster`,
         timeExpectation: `Sub **4:10** kills`,
-        requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ ${Emojis.p6} ${Emojis.c1} on ${Emojis.inquis}.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.greaterSun} at 58 seconds with ${Emojis.fsoa} ${Emojis.spec} before arms.\n\u200B⬥ ${Emojis.greaterChain} and ${Emojis.nami} first two abilities on arms.\n\u200B⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required, ${Emojis.zerk} to finish eruption within 6 GCDs.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ ${Emojis.zerk} at the start of Phase 3.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before entering Elf.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B⬥ ${Emojis.nati} used at the end of Phase 3 for a better Phase 4 rotation.`,
+        requirements: `⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     }
