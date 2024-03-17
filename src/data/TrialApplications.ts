@@ -46,14 +46,14 @@ export const groupRoleData = [
     {
         role: `threeSevenExperienced`,
         timeExpectation: `Sub **4:50** kills`,
-        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Northern eruptions killed within 4 GCD.\n\u200B⬥ Phase into Phase 3 before the second rain hit.\n\u200B⬥ Phase 3 two padded at most, with an ultimate used on elf.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
+        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Northern eruptions killed within 4 GCD.\n\u200B⬥ Phase into Phase 3 before the second rain hit.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
     {
         role: `threeSevenMaster`,
         timeExpectation: `Sub **4:10** kills`,
-        requirements: `⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B`,
+        requirements: `⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ One cycle elfs with appropriate outside damage.\n\u200B`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     }
