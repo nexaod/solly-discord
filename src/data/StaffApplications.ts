@@ -4,8 +4,8 @@ export const welcome = `Welcome to Solak Discord's **Staff Application** channel
 
 // Edit any of these, going to the correct embed will be handled by the bot.
 const trialTeamAvailability = {
-    experienced: true,
-    master: true,
+    experienced: false,
+    master: false,
     grandmaster: false,
 }
 
@@ -25,7 +25,7 @@ export const roleData = [
     },
     {
         role: `reaper`,
-        available: false,
+        available: true,
         description: `Runs our reaper service - offering free kills for people with 0 KC to help them achieve the reaper crew passive and introduce them to Solak.`,
     },
     {
