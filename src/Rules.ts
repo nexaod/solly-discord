@@ -65,7 +65,7 @@ client.on("ready", async () => {
     staffFields.push(ownerField, adminField, moderatorField);
     const staffHeader = await channel.send({ content: `\u200B\n⬥ __**Staff Team**__`, allowedMentions: { parse: [] } });
     const staffTocField: any = {
-        name: 'Staff Team',
+        name: 'Staff Teams',
         value: `⬥ [Link](${staffHeader.url})`,
         inline: true
     }
