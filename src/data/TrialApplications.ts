@@ -33,6 +33,7 @@ export const duoRoleData = [
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     }
+]
 
 export const groupRoleData = [
     {
