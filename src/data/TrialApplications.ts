@@ -22,7 +22,7 @@ export const duoRoleData = [
     {
         role: `duoExperienced`,
         timeExpectation: `Sub **5:30** kills`,
-        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Eruptions killed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most, with 1 cycle elf.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
+        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Eruptions killed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
     },
