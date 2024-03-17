@@ -9,7 +9,6 @@ export const staffTeam = {
         '364558577194631170', // Ru sh
     ],
     admins: [
-        '122125308898836480', // SuparNova
         '301111712336052225', // Virius
         '292290745841352704', // hieno68
     ],
