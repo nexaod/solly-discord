@@ -32,7 +32,7 @@ export const duoRoleData = [
         requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.ranged}: Effective use of ${Emojis.ecb} ${Emojis.spec} and ${Emojis.bolg} ${Emojis.spec} + passive throughout the fight.\n\u200B⬥ Prebuild for Arms with ${Emojis.nati} or ${Emojis.incend} for ${Emojis.magic}, both for ${Emojis.ranged}.\n\u200B⬥ Place ${Emojis.greaterSun}/${Emojis.greaterDeathSwiftness} before **1:04**/**1:06**.\n\u200B⬥ ${Emojis.magic}: ${Emojis.fsoa} ${Emojis.spec} before arms are attackable, and attack as soon as they spawn.\n\u200B⬥ Phase 1 Core exit by **1:40** (${Emojis.magic}), **1:50** (${Emojis.ranged}).\n\u200B⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
-    },
+    }
 
 export const groupRoleData = [
     {
@@ -55,5 +55,5 @@ export const groupRoleData = [
         requirements: `⬥ ${Emojis.shard} twice in Phase 1.\n\u200B⬥ ${Emojis.dummy} dropped for legs.\n\u200B⬥ ${Emojis.p6} ${Emojis.c1} on ${Emojis.inquis}.\n\u200B⬥ Prebuild with ${Emojis.nati} and ${Emojis.greaterSun} at 58 seconds with ${Emojis.fsoa} ${Emojis.spec} before arms.\n\u200B⬥ ${Emojis.greaterChain} and ${Emojis.nami} first two abilities on arms.\n\u200B⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required, ${Emojis.zerk} to finish eruption within 6 GCDs.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ ${Emojis.zerk} at the start of Phase 3.\n\u200B⬥ ${Emojis.fsoa} ${Emojis.spec} before entering Elf.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B⬥ ${Emojis.nati} used at the end of Phase 3 for a better Phase 4 rotation.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
-    },
+    }
 ]
