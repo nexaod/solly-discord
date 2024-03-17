@@ -44,7 +44,7 @@ client.on("ready", async () => {
         .setImage(metricsRequirements.image);
     const metricsSent = await channel.send({ embeds: [metricsEmbed] });
     generalField.value += `⬥ [Metrics Requirement](${metricsSent.url})\n`;
-    await channel.send(`\u200B\n⬥ __**Additional Information**__`);
+    await channel.send(`\u200B\n⬥ __**Additional Information(s)**__`);
     const notesEmbed = new EmbedBuilder()
         .setColor(Colours.gold)
         .setDescription(notes);
