@@ -14,7 +14,7 @@ export const notes = `⬥ All requirements listed for a specific role must be pe
 export const duoRoleData = [
     {
         role: `duoRootskips`,
-        timeExpectation: `Sub **6:30** kills`,
+        timeExpectation: `Sub **6:30** kills ${Emojis.magic} / ${Emojis.ranged} / ${Emojis.melee} / ${Emojis.necro}`,
         requirements: `⬥ Skip roots by 50 seconds (58 for ${Emojis.ranged}).\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion.\n\u200B⬥ 1 cycle the core with clean execution.\n\u200B⬥ Deal with mechanics properly (no bombing team).`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoRootskips}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 6 KPH.`,
