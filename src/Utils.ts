@@ -347,7 +347,7 @@ const DevChannels = {
     roleInformation: '1043923758781571123',
     botRoleLog: '1044636757808922766',
     botReportLog: '1047434337647329330',
-    commandInfo: '1064789366762905650',
+    commandInfo: '1225109882693353543',
     trialApplications: '1086926116599648308',
     foursGuide: '1088825397212364830',
     requirements: '1043923758290833484',
