@@ -28,6 +28,7 @@ client.on("ready", async () => {
         name: 'Requirements',
         value: '',
         inline: true
+        #hello
     };
     await channel.send({ content: welcome, allowedMentions: { parse: [] } });
     for await (const embedData of content) {
