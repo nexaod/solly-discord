@@ -2,7 +2,7 @@ import { Channels, Emojis, Roles } from "../../src/Utils";
 
 export const welcome = `Welcome to Solak Discord's **Trial Application** channel.\n\nFor information about specific role requirements and kill speeds, please scroll down.\n\u200B`;
 
-export const gearRequirements = `Trialed roles require you to conform to <#${Channels.requirements}> in addition to the items listed below.\n\u200B\n\u200B⬥ ${Emojis.dummy} Combat Dummy MKII\n\u200B⬥ ${Emojis.kwuarm} Kwuarm Incense Sticks\n\u200B⬥ ${Emojis.spiritWeed} Spirit Weed Incense Sticks\n\u200B⬥ ${Emojis.reaverPouch} and ${Emojis.vampAura} if using ${Emojis.bikArrow}, otherwise ${Emojis.ripperDemon} if DPS and ${Emojis.kalgDemon} if Base`;
+export const gearRequirements = `Trialed roles require that you conform to <#${Channels.requirements}> in addition to the items listed below.\n\u200B\n\u200B⬥ ${Emojis.dummy} Combat Dummy MKII\n\u200B⬥ ${Emojis.kwuarm} Kwuarm Incense Sticks\n\u200B⬥ ${Emojis.spiritWeed} Spirit Weed Incense Sticks\n\u200B⬥ ${Emojis.reaverPouch} and ${Emojis.vampAura} if using ${Emojis.bikArrow}, otherwise ${Emojis.ripperDemon} if DPS and ${Emojis.kalgDemon} if Base`;
 
 export const metricsRequirements = {
     description: `All applications require **RuneMetrics**, whether that be through VoD, or submitted during a trial after every kill.\n\n> __**Guide**__\n\u200B\n\u200B1. Purchase **RuneMetrics Pro**.\n\u200B\n\u200B2. Open Metrics, toggle \`Show precise values\` and drag the UI to your interface.\n\u200B\n\u200B3. Reset the damage value to 0, and set \`Choose data interval\` to **Since reset**.\n\u200B\n\u200B4. If VoD, reset after each kill. If trialling, after each kill post metrics to trial ticket, then reset metrics.`,
