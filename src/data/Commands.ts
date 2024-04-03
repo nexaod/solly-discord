@@ -8,7 +8,7 @@ export const commandData: CommandData[] = [
         commands: [
             {
                 title: "Cosmetic",
-                description: "Assigns a Cosmetic role to a user.",
+                description: "Assigns a cosmetic role to a user.",
                 sections: [
                     {
                         title: "Permissions",
