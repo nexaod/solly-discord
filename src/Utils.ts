@@ -374,7 +374,7 @@ const ProdChannels = {
     roleInformation: '1038048347413553183',
     botRoleLog: '1045192967754883172',
     botReportLog: '1046699857433342103',
-    commandInfo: '1047042072173088798',
+    commandInfo: '1225109882693353543',
     trialApplications: '1006975026748203079',
     duoGuide: '1117210194418606201',
     foursGuide: '1117210302291910686',
