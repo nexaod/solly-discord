@@ -16,7 +16,7 @@ export const commandData: CommandData[] = [
                     },
                     {
                         title: "Supported Roles",
-                        value: `Kill Count, Collection Logs, ${Roles.WRHolder} and ${Roles.erethdorsBane}`
+                        value: `Kill Count, Collection Logs`
                     },
                     {
                         title: "Usage",
