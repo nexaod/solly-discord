@@ -16,6 +16,7 @@ export const staffTeam = {
     moderators: [
         '376547370235854849', // RDI
         '258055326215962626', // Fate
+        '188784219319697409', // cyberdryad
     ]
 }
 
