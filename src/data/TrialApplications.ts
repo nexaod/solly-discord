@@ -31,9 +31,17 @@ export const duoRoleData = [
         timeExpectation: `Sub **4:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
-        kph: `This role expects 8 KPH.`,
+        kph: `This role expects 10 KPH.`,
+    },
+    {
+        role: `duoGrandmaster`,
+        timeExpectation: `Sub **3:20** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild .\n\u200B⬥ ${Emojis.magic}:`,
+        obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
+        kph: `This role expects 14 KPH.`,
     }
 ]
+
 
 export const groupRoleData = [
     {
