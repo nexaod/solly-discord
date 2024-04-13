@@ -36,7 +36,7 @@ export const duoRoleData = [
     {
         role: `duoGrandmaster`,
         timeExpectation: `Sub **3:20** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Consistent rootling skip rotation and prebuild .\n\u200B⬥ ${Emojis.magic}:`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild.`,
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 14 KPH.`,
     }
