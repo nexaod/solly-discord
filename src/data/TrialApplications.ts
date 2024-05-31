@@ -1,6 +1,6 @@
 import { Channels, Emojis, Roles } from "../../src/Utils";
 
-export const welcome = `Welcome to Solak Discord's **Trial Application** channel.\n\nFor information about specific role requirements and kill speeds, please scroll down.\n\u200B`;
+export const welcome = `Welcome to Solak Discord's **Trial Application** channel.\n\nFor information about specific role requirements and kill speeds, please look below.\n\u200B`;
 
 export const gearRequirements = `Trialed roles require that you conform to <#${Channels.requirements}> in addition to the items listed below.\n\u200B\n\u200B⬥ ${Emojis.dummy} Combat Dummy MKII\n\u200B⬥ ${Emojis.kwuarm} Kwuarm Incense Sticks\n\u200B⬥ ${Emojis.spiritWeed} Spirit Weed Incense Sticks\n\u200B⬥ ${Emojis.reaverPouch} and ${Emojis.vampAura} if using ${Emojis.bikArrow}, otherwise ${Emojis.ripperDemon} if DPS and ${Emojis.kalgDemon} if Base`;
 
@@ -31,9 +31,17 @@ export const duoRoleData = [
         timeExpectation: `Sub **4:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
-        kph: `This role expects 8 KPH.`,
+        kph: `This role expects 10 KPH.`,
+    },
+    {
+        role: `duoGrandmaster`,
+        timeExpectation: `Sub **3:20** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild.`,
+        obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
+        kph: `This role expects 12 KPH.`,
     }
 ]
+
 
 export const groupRoleData = [
     {
@@ -52,8 +60,8 @@ export const groupRoleData = [
     },
     {
         role: `threeSevenMaster`,
-        timeExpectation: `Sub **4:10** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Phase 1 core exit by **1:35**.\n\u200B⬥ Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ One cycle elfs with appropriate outside damage.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
+        timeExpectation: `Sub **4:10** *OR* Sub **3:25 rootling** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ 4GCD arms 1 GCD legs, phase 1 core exit by 0:55, 1:36 SS. \n\u200B⬥  Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ One cycle elfs with appropriate outside damage.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     }
