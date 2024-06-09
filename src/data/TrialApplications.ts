@@ -69,7 +69,7 @@ export const groupRoleData = [
         role: `threeSevenGrandmaster`,
         timeExpectation: `Sub **3:05** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Consistent rootling skip rotation and prebuild.`,
-        obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenGrandmaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
+        obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 12 KPH.`,
     }
 ]
