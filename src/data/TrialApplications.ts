@@ -64,5 +64,12 @@ export const groupRoleData = [
         requirements: `⬥ 4GCD arms 1 GCD legs, phase 1 core exit by 0:55, 1:36 SS. \n\u200B⬥  Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ One cycle elfs with appropriate outside damage.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
+    },
+    {
+        role: `threeSevenGrandmaster`,
+        timeExpectation: `Sub **3:05** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild.`,
+        obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenGrandmaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
+        kph: `This role expects 12 KPH.`,
     }
 ]
