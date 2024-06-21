@@ -5,7 +5,8 @@
     "staffApplications": "ts-node src/StaffApplications.ts",
     "vodReview": "ts-node src/VoDReview.ts",
     "requirements": "ts-node src/Requirements.ts",
-    "rules": "ts-node src/Rules.ts"
+    "rules": "ts-node src/Rules.ts",
+    "necromancyGuide": "ts-node src/NecromancyGuide.ts"
   },
   "dependencies": {
     "@types/node": "^18.7.23",
