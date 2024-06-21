@@ -16,7 +16,7 @@ client.on("ready", async () => {
     if (!client.user || !client.application) {
         return;
     }
-    const channel = await client.channels.fetch(1253408837906464849) as TextChannel;
+    const channel = await client.channels.fetch('1253408837906464849') as TextChannel;
     await purgeChannel(channel);
     const tocEmbed = new EmbedBuilder()
         .setTitle('Table of Contents')
