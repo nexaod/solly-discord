@@ -341,7 +341,7 @@ export const styleTitle = (value: string) => {
     return `> __**${value}**__`;
 }
 
-const DevChannels : any = {
+const DevChannels = {
     achievementsAndLogs: '1043923759280697405',
     roleConfirmations: '1043923758781571126',
     roleInformation: '1043923758781571123',
@@ -358,7 +358,7 @@ const DevChannels : any = {
     testing: '1089111195144949820',
     freeForAll: '1089528206631129199',
     rules: '1043923758290833483',
-    necromancyGuide: '1253408837906464849'
+    necromancyGuide: '1253408837906464849',
 }
 
 const ProdMessages = {
@@ -369,7 +369,7 @@ const DevMessages = {
     mockTrialReacts: '1063729249460174858'
 }
 
-const ProdChannels : any = {
+const ProdChannels = {
     achievementsAndLogs: '429378540115329044',
     roleConfirmations: '846853673476685824',
     roleInformation: '1038048347413553183',
@@ -390,7 +390,8 @@ const ProdChannels : any = {
     rules: '429380211390545920',
     reaperInfo: '1227389619235061882', //currently set to wip test channel
     reaperTickets: '922046714456715264',
-    necromancyGuide: '1253408837906464849'
+    necromancyGuide: '1253408837906464849',
+
 }
 
 const DevRoles: any = {
@@ -445,10 +446,10 @@ const ProdGuildId = '429001600523042818';
 
 const DevGuildId = '1043923757598781461';
 
-export const Roles : any = environment === 'PRODUCTION' ? ProdRoles : DevRoles;
+export const Roles = environment === 'PRODUCTION' ? ProdRoles : DevRoles;
 
-export const GuildId : any = environment === 'PRODUCTION' ? ProdGuildId : DevGuildId;
+export const GuildId = environment === 'PRODUCTION' ? ProdGuildId : DevGuildId;
 
-export const Channels : any = environment === 'PRODUCTION' ? ProdChannels : DevChannels;
+export const Channels = environment === 'PRODUCTION' ? ProdChannels : DevChannels;
 
-export const Messages : any = environment === 'PRODUCTION' ? ProdMessages : DevMessages;
+export const Messages = environment === 'PRODUCTION' ? ProdMessages : DevMessages;
