@@ -358,7 +358,6 @@ const DevChannels = {
     testing: '1089111195144949820',
     freeForAll: '1089528206631129199',
     rules: '1043923758290833483',
-    necromancyGuide: '1253408837906464849',
 }
 
 const ProdMessages = {
