@@ -44,4 +44,4 @@ client.on("ready", async () => {
     await process.exit(0)
     console.log(`${client.user.username} is online`);
 });
-//arbitrary update rebuild
+//arbitrary update
