@@ -6,6 +6,7 @@
     "vodReview": "ts-node src/VoDReview.ts",
     "requirements": "ts-node src/Requirements.ts",
     "rules": "ts-node src/Rules.ts",
+    "reaperInfo": "ts-node src/ReaperInfo.ts",
     "necromancyGuide": "ts-node src/NecromancyGuide.ts"
   },
   "dependencies": {
