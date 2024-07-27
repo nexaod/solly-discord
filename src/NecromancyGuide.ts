@@ -25,7 +25,7 @@ client.on("ready", async () => {
         .setTimestamp();
     const fields: any = [];
     const generalField: any = {
-        name: 'Necromancy Guide',
+        name: 'Necromancy-Guide',
         value: '',
         inline: true
     };
