@@ -360,7 +360,7 @@ const DevChannels = {
     rules: '1043923758290833483',
     reaperInfo: '1227389619235061882', //currently set to wip test channel
     reaperTickets: '922046714456715264',
-    necromancyGuide: '1253408837906464849',
+    necromancyGuide: '1266666471593869356',
 }
 
 const ProdMessages = {
@@ -392,7 +392,7 @@ const ProdChannels = {
     rules: '429380211390545920',
     reaperInfo: '1227389619235061882', //currently set to wip test channel
     reaperTickets: '922046714456715264',
-    necromancyGuide: '1253408837906464849',
+    necromancyGuide: '1266666471593869356',
 
 }
 
