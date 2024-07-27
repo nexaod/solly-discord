@@ -358,6 +358,7 @@ const DevChannels = {
     testing: '1089111195144949820',
     freeForAll: '1089528206631129199',
     rules: '1043923758290833483',
+    necromancyGuide: '1253408837906464849',
 }
 
 const ProdMessages = {
@@ -389,6 +390,8 @@ const ProdChannels = {
     rules: '429380211390545920',
     reaperInfo: '1227389619235061882', //currently set to wip test channel
     reaperTickets: '922046714456715264',
+    necromancyGuide: '1253408837906464849',
+
 }
 
 const DevRoles: any = {
