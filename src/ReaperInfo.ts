@@ -1,6 +1,6 @@
 import { Client, EmbedBuilder, TextChannel } from "discord.js";
 import { Channels, Colours, purgeChannel } from "./Utils";
-import { welcome, content } from "./data/Requirements";
+import { welcome, content } from "./data/ReaperInfo";
 
 const token = process.env.DISCORD_TOKEN; // add your token here
 
