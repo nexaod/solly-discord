@@ -1,14 +1,14 @@
 import { Channels, Colours, Emojis, styleTitle } from "../../src/Utils";
-
+export const welcome = `_`;
 // export const welcome = `Welcome to Solak Discord’s **Reaper Info** channel.\n\nOnce you have read through this information please use the channel <#${Channels.reaperTickets}> to create your reaper ticket.\n\nFor your FREE first Solak kill:\n:bp: You must have your kill count and preset screenshots accepted in your reaper ticket first (See below for exemplars)\n:bp:  While requirements for your reaper kill are relaxed, please comply with one of the exemplar presets below, with T85 weapons and T70 armour as a minimum (1 Defence pures exempt of course). We’ll check your preset again before your kill to ensure it matches the one you posted in your ticket.\n:bp: You MUST watch the guide below before your kill\n:bp: Splits: All Main-hands, Off-hands and Grimoires are split Equally.\nThis is a FREE service we provide, so we ask that you adhere to and respect our advice as much as possible, we’re here to help you get the kill and get you closer to reaper crew.\n\n`;
 
-// export const content = [
-    // {
-    //     title: `⬥ __**Killcount Picture:**__`,
-    //     toc: `Killcount Picture`,
-    //     colour: Colours.gold,
-    //     description: `https://images-ext-1.discordapp.net/external/44salJpVv-pX7HzGuyae4cbwwqY980dUqrUlfGWME1U/https/i.imgur.com/KQtxJJ0.png?format=webp&quality=lossless&width=810&height=562`
-    // },
+export const content = [
+    {
+        title: `⬥ __**Killcount Picture:**__`,
+        toc: `Killcount Picture`,
+        colour: Colours.gold,
+        description: `https://images-ext-1.discordapp.net/external/44salJpVv-pX7HzGuyae4cbwwqY980dUqrUlfGWME1U/https/i.imgur.com/KQtxJJ0.png?format=webp&quality=lossless&width=810&height=562`
+    },
     // {
     //     title: `⬥ __**General Supplies:**__`,
     //     toc: `General Supplies`,
@@ -111,4 +111,4 @@ import { Channels, Colours, Emojis, styleTitle } from "../../src/Utils";
     //     colour: Colours.gold,
     //     description: "Q: Can I use necromancy?\n\nA: Yes you can use necromancy to get your first Solak kill! We Have updated our necromancy loadout\n\n"
     // },
-// ]
+]
