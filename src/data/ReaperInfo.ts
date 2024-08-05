@@ -11,7 +11,7 @@ export const content = [
     },
     {
         title: `⬥ __**General Supplies:**__`,
-        toc: `Killcount Picture`,
+        toc: `General Supplies`,
         colour: Colours.gold,
         description: `Overloads\npowerburst of Vitality\nWeapon Poison+++\nEnhanced Excalibur\nAdrenaline Renewal Potion\nNeceromancy Nexus or Shield\nSaradomin Brews\nSolid Food\nDominion Mines\nDPS Pocket Slot\nVampyrism Aura\nCinderbane Gloves\n`
     },
