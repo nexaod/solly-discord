@@ -70,43 +70,43 @@ export const content = [
         description: "Q: When will I get my kill?\n\nA: We host our reapers in clusters - our reaper team dedicates an hour or two to getting through as many of your tickets as possible. When we have a time planned, we will (generally) announce a day or two beforehand in ⁠reaper-ticket This will contain the day and time we are hosting the reaper cluster on. Other times our reaper team may contact you in your ticket at their discretion in order to schedule a time with you. Please be patient as all our team are volunteering their time. Also keep in mind we will try not to over-ping you so you may get less impromptu invites if you are showing offline or invisible on discord.\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: What is my role during the kill?\n\nA: Your job is to simply follow our instructions and stay alive.  Remember: Survive > Damage\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: Do I have to use a pack yak? A ripper demon would be a lot more damage.\n\nA: Your job is to stay alive so we can get to everyone who is attending the cluster. There are a few places during the kill you will be holding Solak's aggression, so a pack yak is 100% necessary.\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: I've had a look at your ⁠requirements page, but I don't meet everything on the list. Am I still able to get my reaper kill?\n\nA: We are very lenient on the requirements for your first kill. The ⁠requirements page is for actual team forming, where basic requirements are specific for casual teams and to begin participating in learner hours, while advanced requirements are team-specific and are more applicable for experienced teams doing more challenging strategies.\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: My DPS isn't the best, will this be an issue?\n\nA: Every member of our reaper team has proven themselves highly capable of hitting DPS checks in any team size across a wide spectrum of experience, so you're in excellent hands. They'll do most of the heavy lifting  Just do your best and most importantly survive and you'll be fine.\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: The strategy in the reaper guide is very different to how I've seen people kill Solak on streams, why can't we just do a kill like normal?\n\nA: The strategy we use for reaper kills is highly customized for your first kill. We have evolved this strategy over hundreds of kills to give you the best chance of first-attempt success. We have a queue of people to get through in a single cluster, so the strategy best ensures we can see everyone in the allocated time. If you're concerned about not participating enough, don't worry as our strategy sees you taking both base and dps roles, as well as dealing with many group mechanics by yourself all while taking little damage and having fun (which is the main part you should focus on ).\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: Can i use tank armour such as Cryptbloom when trying to obtain the reaper kill?\n\nA: Yes you can use any tank armour you prefer, your job is to ensure you stay alive so we want you to feel as comfortable as possible.\n\n"
     },
     {
-        title: `\n`,
+        title: `⬥ __**FAQ:**__`,
         toc: 'FAQ',
         colour: Colours.gold,
         description: "Q: Can I use necromancy?\n\nA: Yes you can use necromancy to get your first Solak kill! We Have updated our necromancy loadout\n\n"
