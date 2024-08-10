@@ -21,22 +21,22 @@ export const duoRoleData = [
     },
     {
         role: `duoExperienced`,
-        timeExpectation: `Sub **5:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your partner ultimates.\n\u200B⬥ Eruptions killed solo, with both south eruptions dying before cleanse, and north within 5 GCDs.\n\u200B⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
+        timeExpectation: `Sub **5:00** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Ultimate used by 1:02 with supportive critbuff.\n\u200B ⬥ Phase 1 core exit by 1:40.\n\u200B ⬥ Stormskip required.\n\u200B ⬥ Phase 2 capped by end of arm climb with DPS climbing.\n\u200B⬥ Phase 3 two padded at most.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
     },
     {
         role: `duoMaster`,
-        timeExpectation: `Sub **4:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
+        timeExpectation: `Sub **4:10** kills *OR* Sub **3:30** rootling kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild.\n\u200B ⬥ Ultimate used by 00:58 latest OR 00:22 Rootlings with active critbuff.\n\u200B ⬥ Core exit by 1:34 SS OR 0:58 Rootlings.\n\u200B ⬥ Finish both eruptions in 3 GCD each.\n\u200B⬥ ${Emojis.magic}: Place 1 ${Emojis.dummy} during Phase 2.\n\u200B⬥ Phase 2 rain skip (${Emojis.ranged}) or arm climb skip (${Emojis.magic}) on average.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     },
     {
         role: `duoGrandmaster`,
-        timeExpectation: `Sub **3:20** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Consistent rootling skip rotation and prebuild.`,
+        timeExpectation: `Sub **3:15** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild. ⬥ Ultimate used by **00:22**`
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 12 KPH.`,
     }
@@ -53,22 +53,22 @@ export const groupRoleData = [
     },
     {
         role: `threeSevenExperienced`,
-        timeExpectation: `Sub **4:50** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        timeExpectation: `Sub **4:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Arms, legs and core need a solid rotation that allows for consistent 1 cycle cores regardless of when your team ultimates.\n\u200B⬥ Northern eruptions killed within 4 GCD.\n\u200B⬥ Phase into Phase 3 before the second rain hit.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 8 KPH.`,
     },
     {
         role: `threeSevenMaster`,
-        timeExpectation: `Sub **4:10** *OR* Sub **3:25 rootling** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ 4GCD arms 1 GCD legs, phase 1 core exit by 0:55, 1:36 SS. \n\u200B⬥  Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ One cycle elfs with appropriate outside damage.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
+        timeExpectation: `Sub **4:00** *OR* Sub **3:15 rootling** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild.\n\u200B ⬥ Ultimate used by **00:20**.\n\u200B ⬥ 4GCD arms 1 GCD legs, phase 1 core exit by 0:55, 1:36 SS. \n\u200B⬥ Consistent adrenaline management throughout the hour ⬥ Storm tanking required.\n\u200B⬥ Phase into Phase 3 before any rain hits.\n\u200B⬥ One cycle elfs with appropriate outside damage.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     },
     {
         role: `threeSevenGrandmaster`,
-        timeExpectation: `Sub **3:05** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Consistent rootling skip rotation and prebuild.`,
+        timeExpectation: `Sub **3:00** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild.\n\u200B ⬥ Ultimate used by **00:20**.\n\u200B ⬥ Phase 1 core exit by 0:52.
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 12 KPH.`,
     }
