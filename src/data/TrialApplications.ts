@@ -21,7 +21,7 @@ export const duoRoleData = [
     },
     {
         role: `duoExperienced`,
-        timeExpectation: `Sub **5:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
+        timeExpectation: `Sub **5:00** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Stormskips is optional.\n\u200B⬥ Ultimate used by 01:04 with supportive critbuff.\n\u200B⬥ FSOA or ECB special attack used before arms are attackable (01:09).\n\u200B⬥ Phase 2 capped by 2 rainhits.\n\u200B⬥ Phase 3 two padded at most.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 7 KPH.`,
@@ -61,7 +61,7 @@ export const groupRoleData = [
     {
         role: `threeSevenMaster`,
         timeExpectation: `Sub **4:00** OR **3:25** Rootling kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Phase 1 core exit by **1:33** OR **00:55**.\n\u200B⬥ Consistent adrenaline management throughout the hour.\n\u200B⬥ Consistent rootling skip rotation and prebuild.\n\u200B⬥ Ultimate used by 00:58 or 00:22 with active critbuff.\n\u200B⬥ Eruptions killed within 4 GCD's.\n\u200B⬥ Solak HP consistently Sub 1M before entering elf.\n\u200B⬥ One cycle elfs.\n\u200B⬥ Storm tanking required.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
+        requirements: `⬥ Phase 1 core exit by **1:33** OR **00:55**.\n\u200B⬥ Consistent adrenaline management throughout the hour.\n\u200B⬥ Consistent rootling skip rotation and prebuild.\n\u200B⬥ Ultimate used by **00:58* or **00:22** with active critbuff.\n\u200B⬥ Eruptions killed within 4 GCD's.\n\u200B⬥ Solak HP consistently Sub 1M before entering elf.\n\u200B⬥ One cycle elfs.\n\u200B⬥ Storm tanking required.\n\u200B⬥ Prebuilding with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.threeSevenMaster}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 10 KPH.`,
     },
