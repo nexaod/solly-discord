@@ -24,7 +24,7 @@ export const duoRoleData = [
         timeExpectation: `Sub **5:00** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Stormskips is optional.\n\u200B⬥ Ultimate used by 01:04 with supportive critbuff.\n\u200B⬥ FSOA or ECB special attack used before arms are attackable (01:09).\n\u200B⬥ Phase 2 capped by 2 rainhits.\n\u200B⬥ Phase 3 two padded at most.\n\u200B⬥ Prebuilding with with a ${Emojis.dummy} in Phase 4 is required.`,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
-        kph: `This role expects 7 KPH.`,
+        kph: `This role expects 8 KPH.`,
     },
     {
         role: `duoMaster`,
@@ -56,7 +56,7 @@ export const groupRoleData = [
         timeExpectation: `Sub **4:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
         requirements: `⬥ Ultimate used by 1:04 with supportive critbuff.\n\u200B⬥ FSOA or ECB special attack used before arms are targetable.\n\u200B⬥ Core exit by 1:40.\n\u200B⬥ Eruptions killed within 5 GCD's.\n\u200B⬥ Phase into Phase 3 before any rainhit.\n\u200B⬥ Phase 3 two padded at most, with no stalling between pad charges.\n\u200B⬥ Elf rotation must be consistent.\n\u200B⬥ Prebuilding with dummy P4 is required. `,
         obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoExperienced}+ or ${Roles.threeSevenExperienced}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
-        kph: `This role expects 8 KPH.`,
+        kph: `This role expects 9 KPH.`,
     },
     {
         role: `threeSevenMaster`,
