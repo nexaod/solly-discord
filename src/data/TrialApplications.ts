@@ -36,7 +36,7 @@ export const duoRoleData = [
     {
         role: `duoGrandmaster`,
         timeExpectation: `Sub **3:15** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Consistent rootling skip rotation and prebuild\n\u200B⬥ DPS expected to vuln P1\n\u200B⬥ Target cycle arms at 00:24 on average \n\u200B⬥ Core exit by 1:40\n\u200B⬥ Correct use of stalling on P4\n\u200B`,
+        requirements: `⬥ Consistent rootling skip rotation and prebuild\n\u200B⬥ DPS expected to vuln P1\n\u200B⬥ Target cycle arms at 00:24 on average \n\u200B⬥ Core exit by 00:48\n\u200B⬥ Correct use of stalling on P4\n\u200B`,
         obtaining: `⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
         kph: `This role expects 12 KPH.`,
     }
