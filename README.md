@@ -1,4 +1,4 @@
-# Solak Discord Channel Management Pipeline z
+# Solak Discord Channel Management Pipeline
 
 [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/solly-discord/discord/actions)
 [![node version](https://img.shields.io/badge/node-v16.14.2-green)](https://nodejs.org/en/download/current/)
