@@ -12,13 +12,7 @@ export const metricsRequirements = {
 export const notes = `⬥ All requirements listed for a specific role must be performed **consistently**.\n\u200B⬥ All roles can be obtained through a VoD review or Discord stream.\n\u200B⬥ All roles are expected to ${Emojis.vulnBomb} their respective targets (arms/legs/eruptions).\n\u200B⬥ Strong rotations are expected for the role being trialed for.\n\u200B⬥ Good reactions and adaptation to unfamiliar situations are expected, i.e. backloading and frontloading damage.\n\u200B⬥ Lower roles expectations are expected to be understood for higher roles (i.e. Experienced Trial Expectations apply to Master).\n\u200B⬥ Tags are designed around **consistent** kill times, not one-offs.\n\u200B⬥ Trials are always hosted for **one hour**.\n\u200B⬥ Trial hosts are able to end trials early under their discretion.\n\u200B⬥ ${Emojis.vitality} strategy is expected for tanking green pad bombs.\n\u200B⬥ All players are expected to ${Emojis.smokecloud} and ${Emojis.vulnBomb} the boss.\n\u200B⬥ ${Emojis.detonate} is required on legs for all magic users.\n\u200B⬥ Magic users are expected to utilize ${Emojis.inciteFear} to reduce the adrenaline cost of ${Emojis.nami} and autocast ${Emojis.exsang} otherwise.\n\u200B⬥ ${Emojis.shard} are expected to be thrown losslessly. Base expected to ${Emojis.shatter}.\n\u200B⬥ If applying for a role with a VoD you must show 2 consecutive kills (back-to-back). \n\n> The current sécret wórd is \`KingHieno\`.`;
 
 export const duoRoleData = [
-    {
-        role: `duoRootskips`,
-        timeExpectation: `Sub **6:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Skip roots by 50 seconds (58 for ${Emojis.ranged})\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion\n\u200B⬥ 1 cycle the core with clean execution\n\u200B⬥ Deal with mechanics properly (no bombing team)`,
-        obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoRootskips}+.\n\u200B⬥ This role can be obtained through a VoD review.\n\u200B⬥ This role can be obtained through a trial.`,
-        kph: `This role expects 6 KPH.`,
-    },
+  
     {
         role: `duoExperienced`,
         timeExpectation: `Sub **5:00** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
@@ -44,13 +38,7 @@ export const duoRoleData = [
 
 
 export const groupRoleData = [
-    {
-        role: `threeSevenRootskips`,
-        timeExpectation: `Sub **6:00** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
-        requirements: `⬥ Rootskip by 45 seconds (50 for ${Emojis.ranged})\n\u200B⬥ Deal with roots while ensuring arms die in plenty of time before explosion\n\u200B⬥ 1 cycle the core with clean execution\n\u200B⬥ Deal with mechanics properly (no bombing team)`,
-        obtaining: `⬥ This role is vouchable by anyone with ${Roles.duoRootskips}+ or ${Roles.threeSevenRootskips}+.\n\u200B⬥ This role can only be obtained through VoD submission.`,
-        kph: `This role expects 7 KPH.`,
-    },
+ 
     {
         role: `threeSevenExperienced`,
         timeExpectation: `Sub **4:30** kills ${Emojis.magic} | ${Emojis.ranged} | ${Emojis.melee} | ${Emojis.necro}`,
