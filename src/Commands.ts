@@ -5,7 +5,7 @@ import { Section } from "./types";
 
 const token = process.env.DISCORD_TOKEN; // add your token here
 
-console.log("Bot is starting...");
+console.log("Bot is starting..."); //A comment
 
 const client = new Client({
     intents: []
