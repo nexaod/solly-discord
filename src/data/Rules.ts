@@ -3,20 +3,19 @@ import { Channels, Roles } from "../../src/Utils";
 // Add Discord ID and comment to indicate who it is
 export const staffTeam = {
     owners: [
-        '149903940375281664', // Alex
-        '327499132900081669', // inboxed
+        '433377979108818946', // Andy
         '263828857637830657', // Jay
+        '149903940375281664', // Alex
+        '205580747384422400', // Epic Smoke
     ],
     admins: [
         '301111712336052225', // Virius
-        '292290745841352704', // hieno68
-        '205580747384422400', // Epic Smoke
-        '190066298338803712', // BrainRS
+        '213496083882442753', // Miss Kay Z
+        '188784219319697409', // cyberdryad
     ],
     moderators: [
         '376547370235854849', // RDI
         '258055326215962626', // Fate
-        '188784219319697409', // cyberdryad
     ]
 }
 
